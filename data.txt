@@ -1,0 +1,7 @@
+Pedri,pedri,123,300
+Ahmed,ahmed,123,250
+Messi,messi,123,110
+Mazen,mazen,123,460
+Nour,nour,123,0
+Hosni,hosni,123,0
+Khaled,khaled,123,0
